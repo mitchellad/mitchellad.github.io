@@ -1,0 +1,11 @@
+<html>
+  <body>
+    <h3>megaminer</h3>
+    <object width="800" height="600">
+                    <param name="movie" value="https://www.myrealgames.com/files/mega-miner.swf">
+                    <param value="direct" name="wmode">
+                    <embed src="https://www.myrealgames.com/files/mega-miner.swf" width="800" height="600">
+    </object>
+   </body>
+   </html>
+      
