@@ -1,10 +1,10 @@
 <html>
  <body>
   <center>
-   <h1>My computer blog!</h1>
+   <h1>My Flash site!</h1>
    <br>
    <br>
-   <h2>home of my future website!</h2>
+   <a herf="mitchellad.github.io/run3.html"><h2>run 3</h2></a>
   </center>
  </body>
 
