@@ -1,6 +1,6 @@
 <html>
  <body>
-  <h1>my add site</h1>
+  <h1>My computer blog</h1>
   <br>
   <br>
   <h2>home of my future website</h2>
